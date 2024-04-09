@@ -1,0 +1,37 @@
+The happiest hour ever is between 1pm - 2pm on 31 December, 2021 with an overall sentiment score of 3658.95214392572
+31 December, 2021 was the happiest day with an overall sentiment score of 30402.262571420644
+The most active hour ever is between 12pm - 1pm on 21 May, 2022 with 39061 tweets
+21 May, 2022 was the most active day with with 424372 tweets
+--- 2441.455066680908 seconds ---
+Job ID           : 57923332
+Cluster          : spartan
+User/Project     : harishk/comp90024
+Nodes            : 2
+Wall-clock time  : 00:40:46 / 04:00:00
+
+Displaying overall resources usage from 2024-04-04 23:33:58 to 2024-04-05 00:14:44:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm176 : 
+                CPU# 1    : 99.3   (  97.5 /   1.8 /   0.0 /   0.7 ) 
+                CPU# 2    : 93.3   (  91.1 /   2.2 /   0.0 /   6.7 ) 
+                CPU# 3    : 95.2   (  93.3 /   1.9 /   0.0 /   4.8 ) 
+                CPU# 4    : 95.2   (  93.3 /   1.8 /   0.0 /   4.8 ) 
+
+spartan-bm177 : 
+                CPU# 5    : 99.1   (  96.7 /   2.4 /   0.9 /   0.0 ) 
+                CPU# 6    : 99.1   (  97.0 /   2.1 /   0.0 /   0.9 ) 
+                CPU# 7    : 99.0   (  96.7 /   2.3 /   0.0 /   1.0 ) 
+                CPU# 8    : 99.1   (  96.7 /   2.4 /   0.0 /   0.9 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.0%  [5MB of 33555MB]
+
+--------------------------------------------
+
