@@ -94,7 +94,7 @@ mtweets_hour_dict = {}
 mtweets_date_dict = {}
 
 chunk_size = 50000
-with open("/home/harishk/twitter-100gb.json") as f:
+with open("/home/sthirumalais/twitter-100gb.json") as f:
     count = 0
     while True:
         #print(count)
@@ -117,7 +117,7 @@ happy_date_dict = comm.gather(happy_date_dict, root=0)
 mtweets_hour_dict = comm.gather(mtweets_hour_dict, root=0)
 mtweets_date_dict = comm.gather(mtweets_date_dict, root=0)
 
-print(happy_hour_dict)
+#print(happy_hour_dict)
 if rank == 0:
 
     hhour_dict = {}
